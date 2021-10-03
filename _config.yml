@@ -9,4 +9,4 @@ twitter_username: dasasathyan # DO NOT include the @ character, or else the buil
 github_username:  dasasathyan # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: hyde
