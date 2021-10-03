@@ -3,6 +3,7 @@ author: Dasa Sathyan | javadas
 email: dasasathyan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I share what I know in technology, what I know in history, what I do for fun
+baseurl: https://dasasathyan.github.io/github-pages-with-jekyll/
 
 # social links
 twitter_username: dasasathyan # DO NOT include the @ character, or else the build will fail!
