@@ -1,3 +1,8 @@
+---
+title: "DevOps made my Life Easier"
+date: 2021-10-03
+---
+
 DevOps makes the life of a developer easier in saving time by taking the code to any live environment on merge of a specific commit configured.
 Once the code is merged to a configured branch the lifecycle of DevOps takes care of building the code, testing it, checking for check-style violations and any other checks needed to make the code production-ready and getting it deployed to any of the configured environments. This leverages the manual intervention of a developer in performing all the above steps. Just a merge and your code is production-ready.
 
